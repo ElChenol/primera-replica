@@ -1,8 +1,57 @@
+.barradeacceso{
+    background-color: black;
+    width: 100%;
+    font-size: 25px;
+}
+
+.bx-camera-home{
+    float: left;
+    margin-right: 3px;
+}
+
+.barra-icono{
+    padding: 15px 15px 15px 40px;
+    color: white;
+    width: 75%;
+    display: inline-block;
+
+}
+
+.barra-botones{
+    display: inline-block;
+}
+
+.botones1{
+    padding: 8px;
+    border: 1px solid #dadbf1;
+    border-radius: 8px;
+    background: local;
+    color: #fff;
+}
+
+.botones2{
+    border-radius: 8px;
+    padding: 8px;
+    background: #4C5FD5;
+    color: #fff
+}
+
+.inicio{
+    background-color: #dadbf1;
+    text-align: center;
+    font-size: 60px;
+}
+
+.barra-busqueda{
+    padding: 100px;
+}
+
 footer{
     background: black;
     padding-top: 30px;
     padding-bottom: 45px;
 }
+
 
 .extras{
     width: 90%;
